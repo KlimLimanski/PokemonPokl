@@ -161,3 +161,10 @@ main div {
         section:hover {
           opacity: 0.7;
         }
+main article {
+    opacity: 1;
+          transition: opacity 1s linear;
+}
+article:hover {
+          opacity: 0.7;
+        }
